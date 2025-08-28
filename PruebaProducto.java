@@ -41,7 +41,7 @@ public class PruebaProducto {
             }
 
             System.out.println();
-        } while (opcion != 4);
+        } while (opcion != 0);
        
     }
 
